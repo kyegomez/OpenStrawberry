@@ -3,9 +3,9 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "open-strawberry"
+name = "open-strawberry-torch"
 version = "0.0.1"
-description = "Open Strawberry - Swarms"
+description = "Strawberry - Swarms"
 license = "MIT"
 authors = ["Kye Gomez <kye@apac.ai>"]
 homepage = "https://github.com/kyegomez/OpenStrawberry"
